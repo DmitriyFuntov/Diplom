@@ -1,0 +1,12 @@
+C:\Diplom\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Diplom\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Diplom\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.csproj.SuggestedBindingRedirects.cache
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.MainWin.resources
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Diplom\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
